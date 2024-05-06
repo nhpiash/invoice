@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/nhpiash/public_html/
+    - export DEPLOYPATH=/home/nhpiash/dev.totaldestek.com/
     - /bin/cp * $DEPLOYPATH
